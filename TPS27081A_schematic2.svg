@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.64840758in"
+   height="0.60896683in"
+   viewBox="0 0 58.356683 54.807012"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="TPS27081A_schematic2.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="34.209982"
+     inkscape:cy="51.697609"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1126"
+     inkscape:window-height="784"
+     inkscape:window-x="436"
+     inkscape:window-y="137"
+     inkscape:window-maximized="0"
+     units="in"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6248"
+       originx="30.825909"
+       originy="8.8707607" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(559.81007,-375.74649)">
+    <rect
+       style="fill:none"
+       height="0"
+       width="0"
+       y="383.89139"
+       x="-406.98425"
+       id="connector2terminal-8" />
+    <rect
+       style="fill:none"
+       height="0"
+       width="0"
+       y="398.29141"
+       x="-406.98425"
+       id="connector1terminal-7" />
+    <rect
+       style="fill:none"
+       height="0"
+       width="0"
+       y="412.69141"
+       x="-406.98425"
+       id="connector0terminal-9" />
+    <rect
+       style="fill:none"
+       height="0"
+       width="0"
+       y="412.69141"
+       x="-349.38327"
+       id="connector5terminal-2" />
+    <rect
+       style="fill:none"
+       height="0"
+       width="0"
+       y="398.29141"
+       x="-349.38327"
+       id="connector4terminal-0" />
+    <rect
+       style="fill:none"
+       height="0"
+       width="0"
+       y="383.89139"
+       x="-349.38327"
+       id="connector3terminal-2" />
+    <g
+       id="g6258">
+      <polygon
+         transform="matrix(0.99822223,0,0,1.2427894,-558.66258,375.85834)"
+         stroke-miterlimit="10"
+         points="7.55,0.36 7.55,7.56 7.55,36.36 7.55,43.56 50.75,43.56 50.75,36.36 50.75,21.96 50.75,7.56 50.75,0.36 "
+         id="polygon4634"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+      <line
+         x1="-548.31781"
+         y1="408.61884"
+         x2="-536.94"
+         y2="408.61884"
+         id="line4636"
+         style="fill:none;stroke:#000000;stroke-width:0.49546963;stroke-linecap:round" />
+      <line
+         x1="-530.73975"
+         y1="421.10107"
+         x2="-509.35013"
+         y2="421.10107"
+         id="line4652"
+         style="fill:none;stroke:#000000;stroke-width:0.81193113;stroke-linecap:round" />
+      <line
+         x1="-509.06522"
+         y1="403.20493"
+         x2="-511.93909"
+         y2="403.20493"
+         id="line4654"
+         style="fill:none;stroke:#000000;stroke-width:0.55690664;stroke-linecap:round" />
+      <line
+         x1="-509.13419"
+         y1="385.30875"
+         x2="-527.48572"
+         y2="385.30875"
+         id="line4698"
+         style="fill:none;stroke:#000000;stroke-width:0.6292513;stroke-linecap:round" />
+      <line
+         x1="-525.59576"
+         y1="389.78278"
+         x2="-527.0332"
+         y2="389.78278"
+         id="line4700"
+         style="fill:none;stroke:#000000;stroke-width:0.55690664;stroke-linecap:round" />
+      <line
+         x1="-527.0332"
+         y1="389.78278"
+         x2="-530.62683"
+         y2="389.78278"
+         id="line4702"
+         style="fill:none;stroke:#000000;stroke-width:0.55690664;stroke-linecap:round" />
+      <line
+         x1="-530.62683"
+         y1="389.78278"
+         x2="-534.22046"
+         y2="389.78278"
+         id="line4704"
+         style="fill:none;stroke:#000000;stroke-width:0.55690664;stroke-linecap:round" />
+      <line
+         x1="-534.22046"
+         y1="389.78278"
+         x2="-536.37659"
+         y2="389.78278"
+         id="line4706"
+         style="fill:none;stroke:#000000;stroke-width:0.55690664;stroke-linecap:round" />
+      <line
+         x1="-534.48376"
+         y1="385.30875"
+         x2="-552.00092"
+         y2="385.30875"
+         id="line4716"
+         style="fill:none;stroke:#000000;stroke-width:0.73480034;stroke-linecap:round" />
+      <line
+         id="connector2pin-3"
+         x1="-559.4137"
+         y1="385.2919"
+         x2="-552.21808"
+         y2="385.2919"
+         style="fill:none;stroke:#787878;stroke-width:0.781609;stroke-linecap:round" />
+      <text
+         transform="scale(0.95897743,1.0427774)"
+         y="373.82681"
+         x="-580.30957"
+         font-size="2.5"
+         id="text4764"
+         style="font-size:2.60536337px;font-family:DroidSans;fill:#8c8c8c">(4)</text>
+      <line
+         id="connector1pin-7"
+         x1="-559.4137"
+         y1="403.2919"
+         x2="-552.21808"
+         y2="403.2919"
+         style="fill:none;stroke:#787878;stroke-width:0.781609;stroke-linecap:round" />
+      <text
+         transform="scale(0.95897743,1.0427774)"
+         y="386.77914"
+         x="-580.44122"
+         font-size="2.5"
+         id="text4768"
+         style="font-size:2.60536337px;font-family:DroidSans;fill:#8c8c8c">(6)</text>
+      <line
+         id="connector0pin-5"
+         x1="-559.37726"
+         y1="421.39188"
+         x2="-552.18164"
+         y2="421.39188"
+         style="fill:none;stroke:#787878;stroke-width:0.781609;stroke-linecap:round" />
+      <text
+         transform="scale(0.95897743,1.0427774)"
+         y="404.04074"
+         x="-580.70435"
+         font-size="2.5"
+         id="text4772"
+         style="font-size:2.60536337px;font-family:DroidSans;fill:#8c8c8c">(5)</text>
+      <line
+         id="connector5pin-9"
+         x1="-501.87701"
+         y1="421.10107"
+         x2="-509.06522"
+         y2="421.10107"
+         style="fill:none;stroke:#787878;stroke-width:0.83535999;stroke-linecap:round" />
+      <text
+         transform="scale(0.89622044,1.1157969)"
+         y="376.22946"
+         x="-564.77045"
+         font-size="2.5"
+         id="text4776"
+         style="font-size:2.78453326px;font-family:DroidSans;fill:#8c8c8c">(1)</text>
+      <line
+         id="connector4pin-2"
+         x1="-501.87701"
+         y1="403.20493"
+         x2="-509.06522"
+         y2="403.20493"
+         style="fill:none;stroke:#787878;stroke-width:0.83535999;stroke-linecap:round" />
+      <text
+         transform="scale(0.89622044,1.1157969)"
+         y="360.1922"
+         x="-564.77045"
+         font-size="2.5"
+         id="text4780"
+         style="font-size:2.78453326px;font-family:DroidSans;fill:#8c8c8c">(2)</text>
+      <line
+         id="connector3pin-2"
+         x1="-501.87701"
+         y1="385.30875"
+         x2="-509.06522"
+         y2="385.30875"
+         style="fill:none;stroke:#787878;stroke-width:0.83535999;stroke-linecap:round" />
+      <text
+         transform="scale(0.89622044,1.1157969)"
+         y="344.15286"
+         x="-564.77045"
+         font-size="2.5"
+         id="text4784"
+         style="font-size:2.78453326px;font-family:DroidSans;fill:#8c8c8c">(3)</text>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.55690664;stroke-linecap:round"
+         id="line5414"
+         y2="392.15735"
+         x2="-529.07922"
+         y1="392.15735"
+         x1="-532.67285" />
+      <g
+         transform="matrix(0.99822223,0,0,1.2427894,-542.82542,318.10119)"
+         id="g5442">
+        <g
+           id="g5434">
+          <polygon
+             style="stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+             id="polygon5428"
+             points="34.19,35.64 36.35,36.36 35.63,34.2 "
+             transform="matrix(-0.70334145,0.71085217,-0.71085217,-0.70334145,63.518486,50.812275)"
+             inkscape:transform-center-x="2.1736465"
+             inkscape:transform-center-y="-7.0456274" />
+          <line
+             x1="11.707236"
+             y1="52.079037"
+             x2="11.647106"
+             y2="49.951672"
+             id="line5430"
+             style="fill:none;stroke:#000000;stroke-width:0.4041566;stroke-linecap:round" />
+        </g>
+        <line
+           x1="18.152342"
+           y1="51.036999"
+           x2="14.55234"
+           y2="51.036999"
+           id="line5438"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round"
+           id="line5440"
+           y2="51.09"
+           x2="7.8743396"
+           y1="51.09"
+           x1="11.474342" />
+      </g>
+      <g
+         transform="matrix(0.95989502,0,0,1.8419419,-556.28171,361.50758)"
+         id="g5468">
+        <polygon
+           style="stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+           id="polygon5453"
+           points="36.35,36.36 35.63,34.2 34.19,35.64 "
+           transform="matrix(0.41150396,0.2479868,-0.40501321,0.25258925,22.768219,-3.0426647)"
+           inkscape:transform-center-x="2.1736465"
+           inkscape:transform-center-y="-7.0456274" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.2260417;stroke-linecap:round"
+           id="line5457"
+           y2="14.289721"
+           x2="22.972559"
+           y1="13.015417"
+           x1="22.967075" />
+      </g>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.37692523;stroke-linecap:round"
+         id="line5472"
+         y2="389.4252"
+         x2="-527.5592"
+         y1="385.32559"
+         x1="-527.5592" />
+      <line
+         x1="-524.56635"
+         y1="381.56448"
+         x2="-524.56635"
+         y2="384.98907"
+         id="line5474"
+         style="fill:none;stroke:#000000;stroke-width:0.34450084;stroke-linecap:round" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.34450084;stroke-linecap:round"
+         id="line5478"
+         y2="384.98907"
+         x2="-535.11603"
+         y1="381.56448"
+         x1="-535.11603" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.55690664;stroke-linecap:round"
+         id="line5514"
+         y2="413.33774"
+         x2="-534.84143"
+         y1="415.12738"
+         x1="-534.84143" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.55690664;stroke-linecap:round"
+         id="line5516"
+         y2="408.86371"
+         x2="-534.84143"
+         y1="413.33774"
+         x1="-534.84143" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.55690664;stroke-linecap:round"
+         id="line5518"
+         y2="404.38965"
+         x2="-534.84143"
+         y1="408.86371"
+         x1="-534.84143" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.55690664;stroke-linecap:round"
+         id="line5520"
+         y2="401.70523"
+         x2="-534.84143"
+         y1="404.38965"
+         x1="-534.84143" />
+      <line
+         x1="-536.74866"
+         y1="406.31638"
+         x2="-536.74866"
+         y2="410.79037"
+         id="line5522"
+         style="fill:none;stroke:#000000;stroke-width:0.55690664;stroke-linecap:round" />
+      <g
+         inkscape:transform-center-y="3.6858472"
+         inkscape:transform-center-x="9.0362335"
+         id="g5524"
+         transform="matrix(0,1.2427894,-0.99822223,0,-477.31355,392.84139)">
+        <g
+           id="g5526">
+          <polygon
+             inkscape:transform-center-y="-7.0456274"
+             inkscape:transform-center-x="2.1736465"
+             transform="matrix(-0.70334145,0.71085217,-0.71085217,-0.70334145,63.518486,50.812275)"
+             points="36.35,36.36 35.63,34.2 34.19,35.64 "
+             id="polygon5528"
+             style="stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" />
+          <line
+             style="fill:none;stroke:#000000;stroke-width:0.4041566;stroke-linecap:round"
+             id="line5530"
+             y2="49.951672"
+             x2="11.647106"
+             y1="52.079037"
+             x1="11.707236" />
+        </g>
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round"
+           id="line5532"
+           y2="51.036999"
+           x2="14.55234"
+           y1="51.036999"
+           x1="18.152342" />
+        <line
+           x1="11.474342"
+           y1="51.09"
+           x2="7.8743396"
+           y2="51.09"
+           id="line5534"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+      </g>
+      <g
+         id="g5536"
+         transform="matrix(0.03420603,-1.194313,1.4785283,0.06563793,-554.46929,438.94431)">
+        <polygon
+           inkscape:transform-center-y="-7.0456274"
+           inkscape:transform-center-x="2.1736465"
+           transform="matrix(0.41150396,0.2479868,-0.40501321,0.25258925,22.768219,-3.0426647)"
+           points="35.63,34.2 34.19,35.64 36.35,36.36 "
+           id="polygon5538"
+           style="stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" />
+        <line
+           x1="22.967075"
+           y1="13.015417"
+           x2="22.972559"
+           y2="14.289721"
+           id="line5540"
+           style="fill:none;stroke:#000000;stroke-width:0.2260417;stroke-linecap:round" />
+      </g>
+      <line
+         x1="-531.18652"
+         y1="404.39246"
+         x2="-534.47931"
+         y2="404.39246"
+         id="line5542"
+         style="fill:none;stroke:#000000;stroke-width:0.37692523;stroke-linecap:round" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.34450084;stroke-linecap:round"
+         id="line5544"
+         y2="415.57059"
+         x2="-530.99103"
+         y1="415.57059"
+         x1="-528.24036" />
+      <line
+         x1="-528.24036"
+         y1="402.43628"
+         x2="-530.99103"
+         y2="402.43628"
+         id="line5546"
+         style="fill:none;stroke:#000000;stroke-width:0.34450084;stroke-linecap:round" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.75609308;stroke-linecap:round"
+         id="line5548"
+         y2="392.72815"
+         x2="-530.82855"
+         y1="404.27368"
+         x1="-530.82855" />
+      <line
+         x1="-530.90332"
+         y1="420.79135"
+         x2="-530.90332"
+         y2="412.72577"
+         id="line5550"
+         style="fill:none;stroke:#000000;stroke-width:0.63195521;stroke-linecap:round" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.61231643;stroke-linecap:round"
+         id="line5552"
+         y2="397.34753"
+         x2="-531.06531"
+         y1="397.34753"
+         x1="-548.44238" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.54594666;stroke-linecap:round"
+         id="line5554"
+         y2="403.03912"
+         x2="-511.91269"
+         y1="385.84045"
+         x1="-511.91269" />
+      <text
+         transform="scale(0.89622044,1.1157969)"
+         style="font-size:2.78453326px;font-family:DroidSans;fill:#8c8c8c"
+         id="text5558"
+         font-size="2.5"
+         x="-593.9978"
+         y="346.89819">Q1</text>
+      <text
+         transform="scale(0.89622044,1.1157969)"
+         y="367.03473"
+         x="-595.26855"
+         font-size="2.5"
+         id="text5562"
+         style="font-size:2.78453326px;font-family:DroidSans;fill:#8c8c8c">Q2</text>
+      <g
+         transform="matrix(0.90038979,0,0,1.1209878,-552.02702,354.37924)"
+         id="g5596">
+        <line
+           x1="5.3818274"
+           y1="29.716002"
+           x2="15.27441"
+           y2="29.716002"
+           id="line5564"
+           style="fill:none;stroke:#000000;stroke-width:0.37141207;stroke-linecap:round" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.37050632;stroke-linecap:round"
+           id="line5566"
+           y2="34.501057"
+           x2="15.225391"
+           y1="34.501057"
+           x1="5.381001" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.25376016;stroke-linecap:round"
+           id="line5568"
+           y2="29.899269"
+           x2="5.3436832"
+           y1="34.517166"
+           x1="5.3436832" />
+        <line
+           x1="15.262711"
+           y1="34.467323"
+           x2="15.262711"
+           y2="29.849424"
+           id="line5570"
+           style="fill:none;stroke:#000000;stroke-width:0.25376016;stroke-linecap:round" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.18685971;stroke-linecap:round"
+           id="line5572"
+           y2="31.937397"
+           x2="9.2032986"
+           y1="34.173744"
+           x1="6.6180387" />
+        <line
+           x1="9.7568274"
+           y1="33.965694"
+           x2="9.2545481"
+           y2="31.896231"
+           id="line5574"
+           style="fill:none;stroke:#000000;stroke-width:0.12955631;stroke-linecap:round" />
+        <g
+           id="g5576"
+           transform="matrix(-0.86115479,-0.81586424,1.4254376,-1.1708859,11.056174,67.786891)">
+          <polygon
+             inkscape:transform-center-y="-7.0456274"
+             inkscape:transform-center-x="2.1736465"
+             transform="matrix(0.41150396,0.2479868,-0.40501321,0.25258925,22.768219,-3.0426647)"
+             points="34.19,35.64 36.35,36.36 35.63,34.2 "
+             id="polygon5578"
+             style="stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" />
+          <line
+             x1="22.967075"
+             y1="13.015417"
+             x2="22.972559"
+             y2="14.289721"
+             id="line5580"
+             style="fill:none;stroke:#000000;stroke-width:0.2260417;stroke-linecap:round" />
+        </g>
+        <g
+           id="g5582"
+           transform="matrix(0.80319028,0.0187944,-0.04414232,0.81237296,-7.4409126,23.56323)">
+          <polygon
+             inkscape:transform-center-y="-7.0456274"
+             inkscape:transform-center-x="2.1736465"
+             transform="matrix(0.41150396,0.2479868,-0.40501321,0.25258925,22.768219,-3.0426647)"
+             points="35.63,34.2 34.19,35.64 36.35,36.36 "
+             id="polygon5584"
+             style="stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" />
+          <line
+             x1="22.967075"
+             y1="13.015417"
+             x2="22.972559"
+             y2="14.289721"
+             id="line5586"
+             style="fill:none;stroke:#000000;stroke-width:0.2260417;stroke-linecap:round" />
+        </g>
+        <text
+           y="31.644674"
+           x="5.6342854"
+           font-size="2.5"
+           id="text5588"
+           style="font-size:2.00800514px;font-family:DroidSans;fill:#8c8c8c">ESD</text>
+        <line
+           x1="10.370116"
+           y1="27.595404"
+           x2="10.370116"
+           y2="29.621916"
+           id="line5594"
+           style="fill:none;stroke:#000000;stroke-width:0.3362062;stroke-linecap:round" />
+      </g>
+      <g
+         id="g5612"
+         transform="matrix(0.90038979,0,0,1.1209878,-551.93942,365.9406)">
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.37141207;stroke-linecap:round"
+           id="line5614"
+           y2="29.716002"
+           x2="15.27441"
+           y1="29.716002"
+           x1="5.3818274" />
+        <line
+           x1="5.381001"
+           y1="34.501057"
+           x2="15.225391"
+           y2="34.501057"
+           id="line5616"
+           style="fill:none;stroke:#000000;stroke-width:0.37050632;stroke-linecap:round" />
+        <line
+           x1="5.3436832"
+           y1="34.517166"
+           x2="5.3436832"
+           y2="29.899269"
+           id="line5618"
+           style="fill:none;stroke:#000000;stroke-width:0.25376016;stroke-linecap:round" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.25376016;stroke-linecap:round"
+           id="line5620"
+           y2="29.849424"
+           x2="15.262711"
+           y1="34.467323"
+           x1="15.262711" />
+        <line
+           x1="6.6180387"
+           y1="34.173744"
+           x2="9.2032986"
+           y2="31.937397"
+           id="line5622"
+           style="fill:none;stroke:#000000;stroke-width:0.18685971;stroke-linecap:round" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.12955631;stroke-linecap:round"
+           id="line5624"
+           y2="31.896231"
+           x2="9.2545481"
+           y1="33.965694"
+           x1="9.7568274" />
+        <g
+           transform="matrix(-0.86115479,-0.81586424,1.4254376,-1.1708859,11.056174,67.786891)"
+           id="g5626">
+          <polygon
+             style="stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+             id="polygon5628"
+             points="36.35,36.36 35.63,34.2 34.19,35.64 "
+             transform="matrix(0.41150396,0.2479868,-0.40501321,0.25258925,22.768219,-3.0426647)"
+             inkscape:transform-center-x="2.1736465"
+             inkscape:transform-center-y="-7.0456274" />
+          <line
+             style="fill:none;stroke:#000000;stroke-width:0.2260417;stroke-linecap:round"
+             id="line5630"
+             y2="14.289721"
+             x2="22.972559"
+             y1="13.015417"
+             x1="22.967075" />
+        </g>
+        <g
+           transform="matrix(0.80319028,0.0187944,-0.04414232,0.81237296,-7.4409126,23.56323)"
+           id="g5632">
+          <polygon
+             style="stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+             id="polygon5634"
+             points="34.19,35.64 36.35,36.36 35.63,34.2 "
+             transform="matrix(0.41150396,0.2479868,-0.40501321,0.25258925,22.768219,-3.0426647)"
+             inkscape:transform-center-x="2.1736465"
+             inkscape:transform-center-y="-7.0456274" />
+          <line
+             style="fill:none;stroke:#000000;stroke-width:0.2260417;stroke-linecap:round"
+             id="line5636"
+             y2="14.289721"
+             x2="22.972559"
+             y1="13.015417"
+             x1="22.967075" />
+        </g>
+        <text
+           style="font-size:2.00800514px;font-family:DroidSans;fill:#8c8c8c"
+           id="text5638"
+           font-size="2.5"
+           x="5.6342854"
+           y="31.644674">ESD</text>
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.3362062;stroke-linecap:round"
+           id="line5640"
+           y2="29.621916"
+           x2="10.370116"
+           y1="27.595404"
+           x1="10.370116" />
+      </g>
+      <g
+         transform="matrix(0.90038979,0,0,1.1209878,-551.6766,377.61105)"
+         id="g5642">
+        <line
+           x1="5.3818274"
+           y1="29.716002"
+           x2="15.27441"
+           y2="29.716002"
+           id="line5644"
+           style="fill:none;stroke:#000000;stroke-width:0.37141207;stroke-linecap:round" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.37050632;stroke-linecap:round"
+           id="line5646"
+           y2="34.501057"
+           x2="15.225391"
+           y1="34.501057"
+           x1="5.381001" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.25376016;stroke-linecap:round"
+           id="line5648"
+           y2="29.899269"
+           x2="5.3436832"
+           y1="34.517166"
+           x1="5.3436832" />
+        <line
+           x1="15.262711"
+           y1="34.467323"
+           x2="15.262711"
+           y2="29.849424"
+           id="line5650"
+           style="fill:none;stroke:#000000;stroke-width:0.25376016;stroke-linecap:round" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.18685971;stroke-linecap:round"
+           id="line5652"
+           y2="31.937397"
+           x2="9.2032986"
+           y1="34.173744"
+           x1="6.6180387" />
+        <line
+           x1="9.7568274"
+           y1="33.965694"
+           x2="9.2545481"
+           y2="31.896231"
+           id="line5654"
+           style="fill:none;stroke:#000000;stroke-width:0.12955631;stroke-linecap:round" />
+        <g
+           id="g5656"
+           transform="matrix(-0.86115479,-0.81586424,1.4254376,-1.1708859,11.056174,67.786891)">
+          <polygon
+             inkscape:transform-center-y="-7.0456274"
+             inkscape:transform-center-x="2.1736465"
+             transform="matrix(0.41150396,0.2479868,-0.40501321,0.25258925,22.768219,-3.0426647)"
+             points="35.63,34.2 34.19,35.64 36.35,36.36 "
+             id="polygon5658"
+             style="stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" />
+          <line
+             x1="22.967075"
+             y1="13.015417"
+             x2="22.972559"
+             y2="14.289721"
+             id="line5660"
+             style="fill:none;stroke:#000000;stroke-width:0.2260417;stroke-linecap:round" />
+        </g>
+        <g
+           id="g5662"
+           transform="matrix(0.80319028,0.0187944,-0.04414232,0.81237296,-7.4409126,23.56323)">
+          <polygon
+             inkscape:transform-center-y="-7.0456274"
+             inkscape:transform-center-x="2.1736465"
+             transform="matrix(0.41150396,0.2479868,-0.40501321,0.25258925,22.768219,-3.0426647)"
+             points="36.35,36.36 35.63,34.2 34.19,35.64 "
+             id="polygon5664"
+             style="stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" />
+          <line
+             x1="22.967075"
+             y1="13.015417"
+             x2="22.972559"
+             y2="14.289721"
+             id="line5666"
+             style="fill:none;stroke:#000000;stroke-width:0.2260417;stroke-linecap:round" />
+        </g>
+        <text
+           y="31.644674"
+           x="5.6342854"
+           font-size="2.5"
+           id="text5668"
+           style="font-size:2.00800514px;font-family:DroidSans;fill:#8c8c8c">ESD</text>
+        <line
+           x1="10.370116"
+           y1="27.595404"
+           x2="10.370116"
+           y2="29.621916"
+           id="line5670"
+           style="fill:none;stroke:#000000;stroke-width:0.3362062;stroke-linecap:round" />
+      </g>
+      <g
+         id="g5672"
+         transform="matrix(0.90038979,0,0,1.1209878,-526.74543,354.38302)">
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.37141207;stroke-linecap:round"
+           id="line5674"
+           y2="29.716002"
+           x2="15.27441"
+           y1="29.716002"
+           x1="5.3818274" />
+        <line
+           x1="5.381001"
+           y1="34.501057"
+           x2="15.225391"
+           y2="34.501057"
+           id="line5676"
+           style="fill:none;stroke:#000000;stroke-width:0.37050632;stroke-linecap:round" />
+        <line
+           x1="5.3436832"
+           y1="34.517166"
+           x2="5.3436832"
+           y2="29.899269"
+           id="line5678"
+           style="fill:none;stroke:#000000;stroke-width:0.25376016;stroke-linecap:round" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.25376016;stroke-linecap:round"
+           id="line5680"
+           y2="29.849424"
+           x2="15.262711"
+           y1="34.467323"
+           x1="15.262711" />
+        <line
+           x1="6.6180387"
+           y1="34.173744"
+           x2="9.2032986"
+           y2="31.937397"
+           id="line5682"
+           style="fill:none;stroke:#000000;stroke-width:0.18685971;stroke-linecap:round" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.12955631;stroke-linecap:round"
+           id="line5684"
+           y2="31.896231"
+           x2="9.2545481"
+           y1="33.965694"
+           x1="9.7568274" />
+        <g
+           transform="matrix(-0.86115479,-0.81586424,1.4254376,-1.1708859,11.056174,67.786891)"
+           id="g5686">
+          <polygon
+             style="stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+             id="polygon5688"
+             points="34.19,35.64 36.35,36.36 35.63,34.2 "
+             transform="matrix(0.41150396,0.2479868,-0.40501321,0.25258925,22.768219,-3.0426647)"
+             inkscape:transform-center-x="2.1736465"
+             inkscape:transform-center-y="-7.0456274" />
+          <line
+             style="fill:none;stroke:#000000;stroke-width:0.2260417;stroke-linecap:round"
+             id="line5690"
+             y2="14.289721"
+             x2="22.972559"
+             y1="13.015417"
+             x1="22.967075" />
+        </g>
+        <g
+           transform="matrix(0.80319028,0.0187944,-0.04414232,0.81237296,-7.4409126,23.56323)"
+           id="g5692">
+          <polygon
+             style="stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+             id="polygon5694"
+             points="35.63,34.2 34.19,35.64 36.35,36.36 "
+             transform="matrix(0.41150396,0.2479868,-0.40501321,0.25258925,22.768219,-3.0426647)"
+             inkscape:transform-center-x="2.1736465"
+             inkscape:transform-center-y="-7.0456274" />
+          <line
+             style="fill:none;stroke:#000000;stroke-width:0.2260417;stroke-linecap:round"
+             id="line5696"
+             y2="14.289721"
+             x2="22.972559"
+             y1="13.015417"
+             x1="22.967075" />
+        </g>
+        <text
+           style="font-size:2.00800514px;font-family:DroidSans;fill:#8c8c8c"
+           id="text5698"
+           font-size="2.5"
+           x="5.6342854"
+           y="31.644674">ESD</text>
+        <line
+           style="fill:none;stroke:#000000;stroke-width:0.3362062;stroke-linecap:round"
+           id="line5700"
+           y2="29.621916"
+           x2="10.370116"
+           y1="27.595404"
+           x1="10.370116" />
+      </g>
+      <ellipse
+         ry="0.98162645"
+         rx="0.87605906"
+         cy="408.57639"
+         cx="-542.3479"
+         id="path5704"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse5706"
+         cx="-542.63562"
+         cy="397.23312"
+         rx="0.87605906"
+         ry="0.98162645" />
+      <ellipse
+         ry="0.98162645"
+         rx="0.87605906"
+         cy="385.12262"
+         cx="-542.63257"
+         id="ellipse5708"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse5710"
+         cx="-530.93298"
+         cy="397.3728"
+         rx="0.87605906"
+         ry="0.98162645" />
+      <ellipse
+         ry="0.98162645"
+         rx="0.87605906"
+         cy="420.79218"
+         cx="-530.93298"
+         id="ellipse5712"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse5714"
+         cx="-517.44165"
+         cy="385.23544"
+         rx="0.87605906"
+         ry="0.98162645" />
+      <line
+         x1="-548.633"
+         y1="397.39349"
+         x2="-548.633"
+         y2="403.15625"
+         id="line5116"
+         style="fill:none;stroke:#000000;stroke-width:0.31602204;stroke-linecap:round" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.46258411;stroke-linecap:round"
+         id="line5118"
+         y2="421.0365"
+         x2="-548.27649"
+         y1="408.68912"
+         x1="-548.27649" />
+      <line
+         x1="-548.58826"
+         y1="421.11877"
+         x2="-551.73505"
+         y2="421.11877"
+         id="line5120"
+         style="fill:none;stroke:#000000;stroke-width:0.36846933;stroke-linecap:round" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.3617833;stroke-linecap:round"
+         id="line5124"
+         y2="403.1427"
+         x2="-551.83057"
+         y1="403.1427"
+         x1="-548.797" />
+    </g>
+  </g>
+</svg>
