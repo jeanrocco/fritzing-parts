@@ -7,11 +7,13 @@ Some special parts for my projects, these parts are good for breadboard and sche
 *  STWD100 watchdog timer
 *  MAX823T watchdog timer
 
-Use these breakout boards to solder the SMD chips with low temperature solder paste. 
+Use these <a href="https://github.com/jeanrocco/fritzing-parts/blob/master/sot23-5_6.jpg">breakout</a> <a href="https://github.com/jeanrocco/fritzing-parts/blob/master/SOT-89.jpg">boards<a/> to solder the SMD chips with low temperature solder paste. 
 Try to spread thin amounts of paste on the board pads, place the chip as best as possible,
 and shove everything in a toaster oven set to ~ 300F-400F.
 It will take about 30 to 60 seconds for the paste to melt, watch it becoming a shinny liquid metal, and carefully take it out of the oven.
-Solder bridges will often form, just spread the solder with a hot soldering iron making a lateral sweeping motion on the pins/pads. 
+Solder bridges will often form, just spread the solder with a hot clean soldering iron making a lateral sweeping motion on the pins/pads. 
+
+
 
   
   
